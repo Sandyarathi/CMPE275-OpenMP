@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sandyarathidas/Documents/CMPE275_Sandy/matrix/src/matrix.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+
